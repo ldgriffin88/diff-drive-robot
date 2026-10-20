@@ -1,0 +1,30 @@
+running egg_info
+creating ../build/gazebo_controller/gazebo_controller.egg-info
+writing ../build/gazebo_controller/gazebo_controller.egg-info/PKG-INFO
+writing dependency_links to ../build/gazebo_controller/gazebo_controller.egg-info/dependency_links.txt
+writing entry points to ../build/gazebo_controller/gazebo_controller.egg-info/entry_points.txt
+writing requirements to ../build/gazebo_controller/gazebo_controller.egg-info/requires.txt
+writing top-level names to ../build/gazebo_controller/gazebo_controller.egg-info/top_level.txt
+writing manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'
+reading manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build
+creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib
+creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/diffdrive_pid.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/goal_points_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/mapper.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/map_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/planner.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+copying gazebo_controller/__init__.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller
+running install
+running install_lib
+creating /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller
+copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/diffdrive_pid.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller
+copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/goal_points_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller
+copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/mapper.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller
+copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/map_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller
+copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/planner.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller

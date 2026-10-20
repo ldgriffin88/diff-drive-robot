@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gazebo-controller
+Version: 0.0.0
+Summary: EN605.613 Final Project Template - ROS 2 differential drive robot controller with Gazebo simulation and multiple maze environments
+Maintainer: Galen Mullins
+Maintainer-email: gmullin3@jh.edu
+License: MIT
+License-File: LICENSE

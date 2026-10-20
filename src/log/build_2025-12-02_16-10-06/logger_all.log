@@ -1,0 +1,98 @@
+[1.103s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[1.104s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=8, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x754915364ec0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7549154e8fe0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7549154e8fe0>>)
+[1.423s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.424s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.425s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.425s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.426s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[1.427s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.427s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/ubuntu/EN613/final/final_template_jazzy/src'
+[1.431s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[1.435s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[1.442s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[1.443s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[1.444s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[1.444s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[1.445s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[1.445s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[1.626s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[1.627s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[1.628s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[1.631s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[1.631s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[1.646s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[1.647s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[1.651s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[1.667s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extensions ['ignore', 'ignore_ament_install']
+[1.668s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extension 'ignore'
+[1.676s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extension 'ignore_ament_install'
+[1.684s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extensions ['colcon_pkg']
+[1.685s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extension 'colcon_pkg'
+[1.688s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extensions ['colcon_meta']
+[1.689s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extension 'colcon_meta'
+[1.691s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extensions ['ros']
+[1.692s] Level 1:colcon.colcon_core.package_identification:_identify(gazebo_controller) by extension 'ros'
+[1.741s] DEBUG:colcon.colcon_core.package_identification:Package 'gazebo_controller' with type 'ros.ament_python' and name 'gazebo_controller'
+[1.759s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[1.760s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[1.770s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[1.785s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[1.786s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[1.789s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[1.790s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[1.791s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[1.792s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[1.792s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[1.793s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[2.014s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[2.021s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[2.205s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 1 installed packages in /home/ubuntu/EN613/final/final_template_jazzy/install
+[2.214s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 15 installed packages in /home/ubuntu/turtlebot3_ws/install
+[2.224s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 317 installed packages in /opt/ros/jazzy
+[2.228s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[2.504s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_args' from command line to 'None'
+[2.505s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_target' from command line to 'None'
+[2.505s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[2.509s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_clean_cache' from command line to 'False'
+[2.510s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_clean_first' from command line to 'False'
+[2.511s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'cmake_force_configure' from command line to 'False'
+[2.512s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'ament_cmake_args' from command line to 'None'
+[2.513s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'catkin_cmake_args' from command line to 'None'
+[2.514s] Level 5:colcon.colcon_core.verb:set package 'gazebo_controller' build argument 'catkin_skip_building_tests' from command line to 'False'
+[2.515s] DEBUG:colcon.colcon_core.verb:Building package 'gazebo_controller' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller', 'merge_install': False, 'path': '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller', 'symlink_install': False, 'test_result_base': None}
+[2.516s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[2.519s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[2.520s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller' with build type 'ament_python'
+[2.521s] Level 1:colcon.colcon_core.shell:create_environment_hook('gazebo_controller', 'ament_prefix_path')
+[2.544s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[2.545s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/share/gazebo_controller/hook/ament_prefix_path.ps1'
+[2.608s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/share/gazebo_controller/hook/ament_prefix_path.dsv'
+[2.684s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/share/gazebo_controller/hook/ament_prefix_path.sh'
+[2.807s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[2.808s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[6.166s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller'
+[6.168s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[6.168s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[18.587s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller': PYTHONPATH=/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/gazebo_controller build --build-base /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build install --record /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/install.log --single-version-externally-managed install_data
+[30.654s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete was interrupted
+[30.655s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete again
+[30.867s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller' returned '1': PYTHONPATH=/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/gazebo_controller build --build-base /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build install --record /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/install.log --single-version-externally-managed install_data
+[30.904s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished
+[30.918s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[30.976s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[30.979s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[31.317s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[31.322s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[31.324s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[32.275s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[32.277s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/local_setup.ps1'
+[32.302s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/ubuntu/EN613/final/final_template_jazzy/src/install/_local_setup_util_ps1.py'
+[32.341s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/setup.ps1'
+[32.469s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/local_setup.sh'
+[32.552s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/ubuntu/EN613/final/final_template_jazzy/src/install/_local_setup_util_sh.py'
+[32.610s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/setup.sh'
+[32.780s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/local_setup.bash'
+[32.837s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/setup.bash'
+[32.982s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/local_setup.zsh'
+[33.033s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/ubuntu/EN613/final/final_template_jazzy/src/install/setup.zsh'

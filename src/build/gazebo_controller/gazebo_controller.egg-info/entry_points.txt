@@ -1,0 +1,6 @@
+[console_scripts]
+diffdrive_pid = gazebo_controller.diffdrive_pid:main
+goal_points_publisher = gazebo_controller.goal_points_publisher:main
+map_publisher = gazebo_controller.map_publisher:main
+mapper = gazebo_controller.mapper:main
+planner = gazebo_controller.planner:main

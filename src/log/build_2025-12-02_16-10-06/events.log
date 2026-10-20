@@ -1,0 +1,300 @@
+[0.000000] (-) TimerEvent: {}
+[0.007470] (gazebo_controller) JobQueued: {'identifier': 'gazebo_controller', 'dependencies': OrderedDict()}
+[0.008211] (gazebo_controller) JobStarted: {'identifier': 'gazebo_controller'}
+[0.093552] (-) TimerEvent: {}
+[0.194979] (-) TimerEvent: {}
+[0.297728] (-) TimerEvent: {}
+[0.403909] (-) TimerEvent: {}
+[0.505217] (-) TimerEvent: {}
+[0.615297] (-) TimerEvent: {}
+[0.719575] (-) TimerEvent: {}
+[0.823868] (-) TimerEvent: {}
+[0.928549] (-) TimerEvent: {}
+[1.029547] (-) TimerEvent: {}
+[1.130735] (-) TimerEvent: {}
+[1.231898] (-) TimerEvent: {}
+[1.334052] (-) TimerEvent: {}
+[1.436243] (-) TimerEvent: {}
+[1.544869] (-) TimerEvent: {}
+[1.646360] (-) TimerEvent: {}
+[1.747582] (-) TimerEvent: {}
+[1.849033] (-) TimerEvent: {}
+[1.950216] (-) TimerEvent: {}
+[2.055027] (-) TimerEvent: {}
+[2.159257] (-) TimerEvent: {}
+[2.260337] (-) TimerEvent: {}
+[2.364174] (-) TimerEvent: {}
+[2.466078] (-) TimerEvent: {}
+[2.572581] (-) TimerEvent: {}
+[2.673573] (-) TimerEvent: {}
+[2.780433] (-) TimerEvent: {}
+[2.881668] (-) TimerEvent: {}
+[2.986907] (-) TimerEvent: {}
+[3.089324] (-) TimerEvent: {}
+[3.197524] (-) TimerEvent: {}
+[3.298951] (-) TimerEvent: {}
+[3.400150] (-) TimerEvent: {}
+[3.501900] (-) TimerEvent: {}
+[3.607267] (-) TimerEvent: {}
+[3.709486] (-) TimerEvent: {}
+[3.810845] (-) TimerEvent: {}
+[3.913097] (-) TimerEvent: {}
+[4.022030] (-) TimerEvent: {}
+[4.123478] (-) TimerEvent: {}
+[4.226042] (-) TimerEvent: {}
+[4.328500] (-) TimerEvent: {}
+[4.430829] (-) TimerEvent: {}
+[4.532297] (-) TimerEvent: {}
+[4.634527] (-) TimerEvent: {}
+[4.736270] (-) TimerEvent: {}
+[4.846781] (-) TimerEvent: {}
+[4.948720] (-) TimerEvent: {}
+[5.051144] (-) TimerEvent: {}
+[5.152251] (-) TimerEvent: {}
+[5.253522] (-) TimerEvent: {}
+[5.361188] (-) TimerEvent: {}
+[5.470178] (-) TimerEvent: {}
+[5.579605] (-) TimerEvent: {}
+[5.680718] (-) TimerEvent: {}
+[5.781732] (-) TimerEvent: {}
+[5.892574] (-) TimerEvent: {}
+[5.996470] (-) TimerEvent: {}
+[6.097491] (-) TimerEvent: {}
+[6.204063] (-) TimerEvent: {}
+[6.308640] (-) TimerEvent: {}
+[6.410241] (-) TimerEvent: {}
+[6.511504] (-) TimerEvent: {}
+[6.612777] (-) TimerEvent: {}
+[6.716944] (-) TimerEvent: {}
+[6.818704] (-) TimerEvent: {}
+[6.920292] (-) TimerEvent: {}
+[7.021683] (-) TimerEvent: {}
+[7.123842] (-) TimerEvent: {}
+[7.227621] (-) TimerEvent: {}
+[7.330381] (-) TimerEvent: {}
+[7.432885] (-) TimerEvent: {}
+[7.533858] (-) TimerEvent: {}
+[7.634994] (-) TimerEvent: {}
+[7.741391] (-) TimerEvent: {}
+[7.845837] (-) TimerEvent: {}
+[7.952094] (-) TimerEvent: {}
+[8.058261] (-) TimerEvent: {}
+[8.162434] (-) TimerEvent: {}
+[8.265416] (-) TimerEvent: {}
+[8.369121] (-) TimerEvent: {}
+[8.470154] (-) TimerEvent: {}
+[8.575513] (-) TimerEvent: {}
+[8.679475] (-) TimerEvent: {}
+[8.780804] (-) TimerEvent: {}
+[8.883014] (-) TimerEvent: {}
+[8.984697] (-) TimerEvent: {}
+[9.095758] (-) TimerEvent: {}
+[9.197636] (-) TimerEvent: {}
+[9.299635] (-) TimerEvent: {}
+[9.413221] (-) TimerEvent: {}
+[9.517402] (-) TimerEvent: {}
+[9.622132] (-) TimerEvent: {}
+[9.734766] (-) TimerEvent: {}
+[9.843003] (-) TimerEvent: {}
+[9.945382] (-) TimerEvent: {}
+[10.046757] (-) TimerEvent: {}
+[10.148194] (-) TimerEvent: {}
+[10.250742] (-) TimerEvent: {}
+[10.353467] (-) TimerEvent: {}
+[10.456170] (-) TimerEvent: {}
+[10.564678] (-) TimerEvent: {}
+[10.670320] (-) TimerEvent: {}
+[10.771991] (-) TimerEvent: {}
+[10.876820] (-) TimerEvent: {}
+[10.979443] (-) TimerEvent: {}
+[11.082079] (-) TimerEvent: {}
+[11.183343] (-) TimerEvent: {}
+[11.291373] (-) TimerEvent: {}
+[11.394257] (-) TimerEvent: {}
+[11.506861] (-) TimerEvent: {}
+[11.609517] (-) TimerEvent: {}
+[11.711632] (-) TimerEvent: {}
+[11.814532] (-) TimerEvent: {}
+[11.916252] (-) TimerEvent: {}
+[12.017461] (-) TimerEvent: {}
+[12.121576] (-) TimerEvent: {}
+[12.223407] (-) TimerEvent: {}
+[12.324242] (-) TimerEvent: {}
+[12.438800] (-) TimerEvent: {}
+[12.554017] (-) TimerEvent: {}
+[12.666337] (-) TimerEvent: {}
+[12.772107] (-) TimerEvent: {}
+[12.878098] (-) TimerEvent: {}
+[12.979928] (-) TimerEvent: {}
+[13.081325] (-) TimerEvent: {}
+[13.190873] (-) TimerEvent: {}
+[13.293216] (-) TimerEvent: {}
+[13.395496] (-) TimerEvent: {}
+[13.500059] (-) TimerEvent: {}
+[13.607500] (-) TimerEvent: {}
+[13.716581] (-) TimerEvent: {}
+[13.822553] (-) TimerEvent: {}
+[13.924035] (-) TimerEvent: {}
+[14.025754] (-) TimerEvent: {}
+[14.130185] (-) TimerEvent: {}
+[14.231674] (-) TimerEvent: {}
+[14.340196] (-) TimerEvent: {}
+[14.444383] (-) TimerEvent: {}
+[14.550296] (-) TimerEvent: {}
+[14.655385] (-) TimerEvent: {}
+[14.762429] (-) TimerEvent: {}
+[14.870247] (-) TimerEvent: {}
+[14.971401] (-) TimerEvent: {}
+[15.032277] (gazebo_controller) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/gazebo_controller', 'build', '--build-base', '/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build', 'install', '--record', '/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/ubuntu/EN613/final/final_template_jazzy/src/gazebo_controller', 'env': {'VNCDESKTOP': '5f39c054a4c6:1 (ubuntu)', 'XDG_ACTIVATION_TOKEN': 'caja-255-5f39c054a4c6-terminator-0_TIME225240', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'QT_SCALE_FACTOR': '1', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'ubuntu', 'SUPERVISOR_GROUP_NAME': 'vnc', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'HOSTNAME': '5f39c054a4c6', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/ubuntu/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu/EN613/final/final_template_jazzy', 'GIO_LAUNCHED_DESKTOP_FILE': '/home/ubuntu/Desktop/terminator.desktop', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/tmp/dbus-G92vamEWBH,guid=a7eda45605162bfec3a64826692f0d1c', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '589', 'GNOME_KEYRING_CONTROL': '/home/ubuntu/.cache/keyring-NB2UG3', 'COLCON_PREFIX_PATH': '/home/ubuntu/EN613/final/final_template_jazzy/install:/home/ubuntu/turtlebot3_ws/install', 'ROS_DISTRO': 'jazzy', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'INSIDE_CAJA_PYTHON': '', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/5f39c054a4c6:@/tmp/.ICE-unix/67,unix/5f39c054a4c6:/tmp/.ICE-unix/67', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'XDG_CURRENT_DESKTOP': 'MATE', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/ubuntu/.cache/keyring-NB2UG3/ssh', 'AMENT_PREFIX_PATH': '/home/ubuntu/EN613/final/final_template_jazzy/install/gazebo_controller:/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_simulations:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_navigation2:/home/ubuntu/turtlebot3_ws/install/turtlebot3_fake_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_msgs:/home/ubuntu/turtlebot3_ws/install/turtlebot3_gazebo:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_cartographer:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/jazzy', 'TERMINATOR_UUID': 'urn:uuid:8adb7689-b8d1-44ee-9848-25230c7e121e', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PASSWD': 'ubuntu', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'GZ_VERSION': 'harmonic', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller', 'TURTLEBOT3_MODEL': 'waffle', 'TURTLEBOT4_MODEL': 'burger', 'PYTHONPATH': '/home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages:/home/ubuntu/EN613/final/final_template_jazzy/install/gazebo_controller/lib/python3.12/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.12/site-packages:/home/ubuntu/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.12/site-packages:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.12/site-packages:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'COLCON': '1', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_simulations:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_navigation2:/home/ubuntu/turtlebot3_ws/install/turtlebot3_fake_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_msgs:/home/ubuntu/turtlebot3_ws/install/turtlebot3_gazebo:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_cartographer:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ubuntu/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'QT_FONT_DPI': '96'}, 'shell': False}
+[15.095475] (-) TimerEvent: {}
+[15.197575] (-) TimerEvent: {}
+[15.299704] (-) TimerEvent: {}
+[15.400706] (-) TimerEvent: {}
+[15.502075] (-) TimerEvent: {}
+[15.606647] (-) TimerEvent: {}
+[15.716401] (-) TimerEvent: {}
+[15.818582] (-) TimerEvent: {}
+[15.919679] (-) TimerEvent: {}
+[16.020904] (-) TimerEvent: {}
+[16.127843] (-) TimerEvent: {}
+[16.228898] (-) TimerEvent: {}
+[16.330477] (-) TimerEvent: {}
+[16.432264] (-) TimerEvent: {}
+[16.536159] (-) TimerEvent: {}
+[16.637904] (-) TimerEvent: {}
+[16.739308] (-) TimerEvent: {}
+[16.844029] (-) TimerEvent: {}
+[16.944870] (-) TimerEvent: {}
+[17.046317] (-) TimerEvent: {}
+[17.147305] (-) TimerEvent: {}
+[17.248265] (-) TimerEvent: {}
+[17.350803] (-) TimerEvent: {}
+[17.451962] (-) TimerEvent: {}
+[17.553186] (-) TimerEvent: {}
+[17.654369] (-) TimerEvent: {}
+[17.755615] (-) TimerEvent: {}
+[17.856916] (-) TimerEvent: {}
+[17.958365] (-) TimerEvent: {}
+[18.061236] (-) TimerEvent: {}
+[18.163190] (-) TimerEvent: {}
+[18.268853] (-) TimerEvent: {}
+[18.374121] (-) TimerEvent: {}
+[18.475861] (-) TimerEvent: {}
+[18.577999] (-) TimerEvent: {}
+[18.679141] (-) TimerEvent: {}
+[18.781494] (-) TimerEvent: {}
+[18.884297] (-) TimerEvent: {}
+[18.985473] (-) TimerEvent: {}
+[19.088327] (-) TimerEvent: {}
+[19.193927] (-) TimerEvent: {}
+[19.298839] (-) TimerEvent: {}
+[19.400113] (-) TimerEvent: {}
+[19.501510] (-) TimerEvent: {}
+[19.602532] (-) TimerEvent: {}
+[19.704495] (-) TimerEvent: {}
+[19.810766] (-) TimerEvent: {}
+[19.911818] (-) TimerEvent: {}
+[19.925035] (gazebo_controller) StdoutLine: {'line': b'running egg_info\n'}
+[19.936958] (gazebo_controller) StdoutLine: {'line': b'creating ../build/gazebo_controller/gazebo_controller.egg-info\n'}
+[20.014620] (-) TimerEvent: {}
+[20.119249] (-) TimerEvent: {}
+[20.156234] (gazebo_controller) StdoutLine: {'line': b'writing ../build/gazebo_controller/gazebo_controller.egg-info/PKG-INFO\n'}
+[20.209564] (gazebo_controller) StdoutLine: {'line': b'writing dependency_links to ../build/gazebo_controller/gazebo_controller.egg-info/dependency_links.txt\n'}
+[20.219457] (-) TimerEvent: {}
+[20.229259] (gazebo_controller) StdoutLine: {'line': b'writing entry points to ../build/gazebo_controller/gazebo_controller.egg-info/entry_points.txt\n'}
+[20.268131] (gazebo_controller) StdoutLine: {'line': b'writing requirements to ../build/gazebo_controller/gazebo_controller.egg-info/requires.txt\n'}
+[20.283046] (gazebo_controller) StdoutLine: {'line': b'writing top-level names to ../build/gazebo_controller/gazebo_controller.egg-info/top_level.txt\n'}
+[20.319639] (-) TimerEvent: {}
+[20.337553] (gazebo_controller) StdoutLine: {'line': b"writing manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'\n"}
+[20.419897] (-) TimerEvent: {}
+[20.521008] (-) TimerEvent: {}
+[20.622021] (-) TimerEvent: {}
+[20.723780] (-) TimerEvent: {}
+[20.830781] (-) TimerEvent: {}
+[20.931952] (-) TimerEvent: {}
+[21.033092] (-) TimerEvent: {}
+[21.095970] (gazebo_controller) StdoutLine: {'line': b"reading manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'\n"}
+[21.133698] (-) TimerEvent: {}
+[21.235615] (-) TimerEvent: {}
+[21.282750] (gazebo_controller) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[21.335851] (-) TimerEvent: {}
+[21.437601] (-) TimerEvent: {}
+[21.539179] (-) TimerEvent: {}
+[21.569130] (gazebo_controller) StdoutLine: {'line': b"writing manifest file '../build/gazebo_controller/gazebo_controller.egg-info/SOURCES.txt'\n"}
+[21.588879] (gazebo_controller) StdoutLine: {'line': b'running build\n'}
+[21.592634] (gazebo_controller) StdoutLine: {'line': b'running build_py\n'}
+[21.639452] (-) TimerEvent: {}
+[21.642009] (gazebo_controller) StdoutLine: {'line': b'creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build\n'}
+[21.656866] (gazebo_controller) StdoutLine: {'line': b'creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib\n'}
+[21.688026] (gazebo_controller) StdoutLine: {'line': b'creating /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[21.739771] (-) TimerEvent: {}
+[21.805180] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/diffdrive_pid.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[21.840524] (-) TimerEvent: {}
+[21.951446] (-) TimerEvent: {}
+[22.058581] (-) TimerEvent: {}
+[22.164452] (-) TimerEvent: {}
+[22.181067] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/goal_points_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[22.265643] (-) TimerEvent: {}
+[22.392933] (-) TimerEvent: {}
+[22.518801] (-) TimerEvent: {}
+[22.612586] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/mapper.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[22.633945] (-) TimerEvent: {}
+[22.740072] (-) TimerEvent: {}
+[22.854195] (-) TimerEvent: {}
+[22.962926] (-) TimerEvent: {}
+[23.060935] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/map_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[23.096965] (-) TimerEvent: {}
+[23.201903] (-) TimerEvent: {}
+[23.314862] (-) TimerEvent: {}
+[23.482111] (-) TimerEvent: {}
+[23.602203] (-) TimerEvent: {}
+[23.656816] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/planner.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[23.702416] (-) TimerEvent: {}
+[23.806499] (-) TimerEvent: {}
+[23.815349] (gazebo_controller) StdoutLine: {'line': b'copying gazebo_controller/__init__.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller\n'}
+[23.906806] (-) TimerEvent: {}
+[24.013377] (gazebo_controller) StdoutLine: {'line': b'running install\n'}
+[24.030574] (-) TimerEvent: {}
+[24.141558] (-) TimerEvent: {}
+[24.164041] (gazebo_controller) StdoutLine: {'line': b'running install_lib\n'}
+[24.241764] (-) TimerEvent: {}
+[24.351795] (-) TimerEvent: {}
+[24.457237] (-) TimerEvent: {}
+[24.561379] (-) TimerEvent: {}
+[24.681878] (-) TimerEvent: {}
+[24.796246] (-) TimerEvent: {}
+[24.917385] (-) TimerEvent: {}
+[25.037391] (-) TimerEvent: {}
+[25.088909] (gazebo_controller) StdoutLine: {'line': b'creating /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[25.137588] (-) TimerEvent: {}
+[25.238779] (-) TimerEvent: {}
+[25.265432] (gazebo_controller) StdoutLine: {'line': b'copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/diffdrive_pid.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[25.339055] (-) TimerEvent: {}
+[25.443401] (-) TimerEvent: {}
+[25.560276] (-) TimerEvent: {}
+[25.677118] (-) TimerEvent: {}
+[25.737572] (gazebo_controller) StdoutLine: {'line': b'copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/goal_points_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[25.777377] (-) TimerEvent: {}
+[25.883332] (-) TimerEvent: {}
+[25.991418] (-) TimerEvent: {}
+[26.095863] (-) TimerEvent: {}
+[26.203549] (-) TimerEvent: {}
+[26.226260] (gazebo_controller) StdoutLine: {'line': b'copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/mapper.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[26.310829] (-) TimerEvent: {}
+[26.412423] (-) TimerEvent: {}
+[26.515906] (-) TimerEvent: {}
+[26.599562] (gazebo_controller) StdoutLine: {'line': b'copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/map_publisher.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[26.617555] (-) TimerEvent: {}
+[26.727251] (-) TimerEvent: {}
+[26.849993] (-) TimerEvent: {}
+[26.951477] (-) TimerEvent: {}
+[27.029396] (gazebo_controller) StdoutLine: {'line': b'copying /home/ubuntu/EN613/final/final_template_jazzy/src/build/gazebo_controller/build/lib/gazebo_controller/planner.py -> /home/ubuntu/EN613/final/final_template_jazzy/src/install/gazebo_controller/lib/python3.12/site-packages/gazebo_controller\n'}
+[27.051727] (-) TimerEvent: {}
+[27.152772] (-) TimerEvent: {}
+[27.182737] (gazebo_controller) StderrLine: {'line': b'interrupted\n'}
+[27.252991] (-) TimerEvent: {}
+[27.366577] (gazebo_controller) CommandEnded: {'returncode': 1}
+[27.391731] (-) TimerEvent: {}
+[27.396542] (gazebo_controller) JobEnded: {'identifier': 'gazebo_controller', 'rc': 'SIGINT'}
+[27.630445] (-) TimerEvent: {}
+[27.631464] (-) EventReactorShutdown: {}
